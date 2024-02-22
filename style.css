@@ -1,0 +1,98 @@
+body {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url(chris-bumstead-1lnwxxn436advkdz.jpg);
+    font-family: "Anta", sans-serif;
+    background-position: 0px -15px;
+    background-position: fil;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.left {
+
+    display: inline-block;
+    position: absolute;
+    left: 70px;
+    top: 20px;
+
+}
+
+.left img {
+    width: 100px;
+}
+
+.left div {
+    text-align: center;
+    line-height: 19px;
+    font-size: 12px;
+}
+
+.right {
+
+    display: inline-block;
+    position: absolute;
+    right: 40px;
+    top: 20px;
+
+}
+
+.mid {
+
+    display: block;
+    width: 555px;
+    margin: 20px auto;
+    font-size: 15px;
+    font-family: "Anta", sans-serif;
+}
+
+.navbar {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+
+}
+
+.navbar li a {
+    color: black;
+    text-decoration: none;
+    padding: 34px 24px;
+}
+
+.navbar li a:hover,
+.navbar li a:active {
+    text-decoration: underline;
+    color: grey;
+
+}
+
+.btn {
+    margin: 0px 9px;
+    border-radius: 33px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    padding: 4px 48px;
+    cursor: pointer;
+    font-family: "Anta", sans-serif;
+}
+
+.btn:hover {
+    background-color: rgb(53, 52, 52);
+}
+
+.container {
+    margin: 80px 191px;
+    padding: 76px 130px;
+    width: 29%;
+    border-radius: 30px;
+    font-family: "Teko", sans-serif;
+    font-size: 19px;
+    text-align: justify;
+
+}
